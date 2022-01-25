@@ -1,0 +1,29 @@
+{
+  "itemGroup.winteroverhaul": "Winter Overhaul",
+
+  "item.winteroverhaul.skates": "Skøyter",
+  "item.winteroverhaul.yellow_scarf": "Gult Skjerf",
+  "item.winteroverhaul.red_scarf": "Rødt Skjerf",
+  "item.winteroverhaul.cyan_scarf": "Turkist Skjerf",
+  "item.winteroverhaul.green_scarf": "Grønt Skjerf",
+  "item.winteroverhaul.top_hat": "Flosshatt",
+  "item.winteroverhaul.yellow_winter_hat": "Gul Vinterlue",
+  "item.winteroverhaul.red_winter_hat": "Rød Vinterlue",
+  "item.winteroverhaul.cyan_winter_hat": "Turkis Vinterlue",
+  "item.winteroverhaul.green_winter_hat": "Grønn Vinterlue",
+
+  "item.winteroverhaul.upgrade.header": "Når påkledd en Snømann:",
+  "item.winteroverhaul.yellow_winter_hat.desc": "Ildmotstand",
+  "item.winteroverhaul.yellow_scarf.desc": "Ildmotstand",
+  "item.winteroverhaul.red_scarf.desc": "x2 skade med snøballer",
+  "item.winteroverhaul.red_winter_hat.desc": "x2 skade med snøballer",
+  "item.winteroverhaul.cyan_scarf.desc": "2x kasthyppighet med snøballer",
+  "item.winteroverhaul.cyan_winter_hat.desc": "2x kasthyppighet med snøballer",
+  "item.winteroverhaul.green_scarf.desc": "x1.5 kastelengde med snøballer",
+  "item.winteroverhaul.green_winter_hat.desc": "x1.5 kastelengde med snøballer",
+  "item.winteroverhaul.top_hat.desc": "x2 maks helse og raskere regenerering",
+
+  "subtitles.winteroverhaul.entity.robin.ambient": "Rødstrupe Kvitrer",
+  "item.winteroverhaul.robin_spawn_egg": "Fremkallingsegg for Rødstrupe",
+  "entity.winteroverhaul.robin": "Rødstrupe"
+}
